@@ -58,7 +58,8 @@ Moje kompetencje opieram na solidnych podstawach inżynierskich i praktyce proje
 #### 🔋 [STM32 Solar PowerBank](https://github.com/Czolsonn/PowerBank)
 *Inteligentny system zarządzania energią z ładowaniem solarnym.*
 * **Technologie:** C, STM32F1 (Bare-metal/HAL), KiCad, PWM, ADC.
-* **Opis:** Zaprojektowałem autorską płytkę PCB integrującą przetwornicę Buck oraz układy zarządzania zasilaniem. Firmware realizuje algorytm MPPT dla paneli solarnych oraz monitoruje parametry ogniw Li-Ion, wykorzystując przerwania i DMA do efektywnego zbierania danych.
+* **Typ projektu:** Projekt zespołowy (2 os.)
+* **Opis:** Projekt zrealizowany we współpracy z kolegą ze studiów. Wspólnie opracowaliśmy projekt płytki PCB integrującej przetwornicę Buck oraz układy zarządzania zasilaniem. Firmware realizuje algorytm MPPT dla paneli solarnych oraz monitoruje parametry ogniw Li-Ion, wykorzystując przerwania i DMA do efektywnego zbierania danych.
 
 #### 🏠 [SmartHouse Dashboard](https://github.com/Czolsonn/SmartHouse)
 *Centralny panel sterowania domem inteligentnym.*

@@ -33,7 +33,7 @@ Moje kompetencje opieram na solidnych podstawach inżynierskich i praktyce proje
 * **Elektronika i Przemysł:**
     * Projektowanie obwodów drukowanych w **KiCad**.
     * Diagnostyka układów (multimetr, analiza schematów elektrycznych).
-    * Podstawy programowania sterowników PLC (Mitsubishi/Toyopuc) i paneli HMI.
+    * Podstawy programowania sterowników PLC (Omron/Mitsubishi/Toyopuc) i paneli HMI.
 
 ---
 

@@ -61,6 +61,11 @@ Moje kompetencje opieram na solidnych podstawach inżynierskich i praktyce proje
 * **Typ projektu:** Projekt zespołowy (2 os.)
 * **Opis:** Projekt zrealizowany we współpracy z kolegą ze studiów. Wspólnie opracowaliśmy projekt płytki PCB integrującej przetwornicę Buck oraz układy zarządzania zasilaniem. Firmware realizuje algorytm MPPT dla paneli solarnych oraz monitoruje parametry ogniw Li-Ion, wykorzystując przerwania i DMA do efektywnego zbierania danych.
 
+#### 📈 [Oscyloskop Cyfrowy](https://github.com/Czolsonn/Oscyloskop)
+*System akwizycji i wizualizacji sygnałów analogowych w czasie rzeczywistym.*
+* **Technologie:** C, STM32 (Bare-metal), ADC, Timery, DMA.
+* **Opis:** Projekt cyfrowego oscyloskopu zaimplementowany na mikrokontrolerze STM32. Wykorzystuje wbudowane przetworniki ADC do szybkiego próbkowania sygnałów analogowych. Proces akwizycji danych wspierany jest sprzętowo przez Timery (do precyzyjnego sterowania częstotliwością próbkowania) oraz kontroler DMA, co gwarantuje wysoką wydajność i odciąża rdzeń procesora.
+
 #### 🏠 [SmartHouse Dashboard](https://github.com/Czolsonn/SmartHouse)
 *Centralny panel sterowania domem inteligentnym.*
 * **Technologie:** Python.
